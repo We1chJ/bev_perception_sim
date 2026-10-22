@@ -13,3 +13,6 @@ data/
 .DS_Store
 .vscode/
 .idea/
+
+# Inspection output
+out/
