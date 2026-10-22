@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Data (Waymo tfrecords are large; keep them out of git)
+data/
+*.tfrecord*
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
